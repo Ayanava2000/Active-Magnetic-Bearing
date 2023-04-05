@@ -1,2 +1,2 @@
 # Active-Magnetic-Bearing
-Modelling and Control of a 1D Active Magnetic Bearing
+Modelling a 1D Active Magnetic Bearing and controlling it using a PID controller.
